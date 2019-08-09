@@ -1,0 +1,444 @@
+{
+  "fields": [
+    {
+      "id": "a",
+      "label": "S.No",
+      "type": "string"
+    },
+    {
+      "id": "b",
+      "label": "Commodity Group",
+      "type": "string"
+    },
+    {
+      "id": "c",
+      "label": "Value of Imports By Air (Rs. in Crores)",
+      "type": "string"
+    },
+    {
+      "id": "d",
+      "label": "Value of Imports By Sea (Rs. in Crores)",
+      "type": "string"
+    },
+    {
+      "id": "e",
+      "label": "Total Value of Imports (Rs. in Crores) ",
+      "type": "string"
+    }
+  ],
+  "data": [
+    [
+      "1",
+      "Chennai Port : Cereals",
+      "@",
+      "87",
+      "87"
+    ],
+    [
+      "2",
+      "Chennai Port : Dairy produce eggs,honey and edible products of animal origin",
+      "@",
+      "3",
+      "3"
+    ],
+    [
+      "3",
+      "Chennai Port : Edible fruits and nuts,peel or citrus fruit or melon",
+      "@",
+      "101",
+      "101"
+    ],
+    [
+      "4",
+      "Chennai Port : Coffee,tea,mate and spices",
+      "1",
+      "218",
+      "219"
+    ],
+    [
+      "5",
+      "Chennai Port : Sugar and sugar confectionery",
+      "1",
+      "6",
+      "7"
+    ],
+    [
+      "6",
+      "Chennai Port : Oil seeds,oleaginous fruits,grains seeds and plants etc.,",
+      "9",
+      "146",
+      "155"
+    ],
+    [
+      "7",
+      "Chennai Port : Edible vegetables and certain roots and tubers",
+      "@",
+      "1012",
+      "1012"
+    ],
+    [
+      "8",
+      "Chennai Port : Miscellaneous edible preparations",
+      "2",
+      "20",
+      "22"
+    ],
+    [
+      "9",
+      "Chennai Port : Salt,Sulpher,earths and stone plastering Materials,Lime and Cement",
+      "1",
+      "378",
+      "379"
+    ],
+    [
+      "10",
+      "Chennai Port : Ores,slag and ash,mineral fuels,mineral oils,bituminous substance and mineral wax",
+      "@",
+      "42246",
+      "42246"
+    ],
+    [
+      "11",
+      "Chennai Port : In- organic chemicals,organic or inorganic Compound of precious metals etc.,",
+      "137",
+      "1021",
+      "1158"
+    ],
+    [
+      "12",
+      "Chennai Port : Organic chemicals",
+      "805",
+      "4268",
+      "5073"
+    ],
+    [
+      "13",
+      "Chennai Port : Pharmaceutical products",
+      "798",
+      "85",
+      "883"
+    ],
+    [
+      "14",
+      "Chennai Port : Fertilisers",
+      "@",
+      "750",
+      "750"
+    ],
+    [
+      "15",
+      "Chennai Port : Tanning or dyeing extract dyes,paints and Varnishes and inks",
+      "29",
+      "510",
+      "539"
+    ],
+    [
+      "16",
+      "Chennai Port : Essential oils and resinoids,perfumery,Cosmetic or toilet preparations",
+      "44",
+      "189",
+      "233"
+    ],
+    [
+      "17",
+      "Chennai Port : Soap. Organic surface active agents,washing preparations,waxes,candles and other dental preparations",
+      "14",
+      "230",
+      "244"
+    ],
+    [
+      "18",
+      "Chennai Port : Photographic or Cinematographic goods",
+      "16",
+      "238",
+      "254"
+    ],
+    [
+      "19",
+      "Chennai Port : Miscellaneous chemical products",
+      "112",
+      "1159",
+      "1271"
+    ],
+    [
+      "20",
+      "Chennai Port : Plastic and articles thereof",
+      "109",
+      "2777",
+      "2886"
+    ],
+    [
+      "21",
+      "Chennai Port : Rubber and articles thereof",
+      "119",
+      "1573",
+      "1692"
+    ],
+    [
+      "22",
+      "Chennai Port : Pulp of wood or other fibrous cellulosic Material,paper and paper board",
+      "50",
+      "2037",
+      "2087"
+    ],
+    [
+      "23",
+      "Chennai Port : Wood and articles of wood/wood charcoal",
+      "1",
+      "486",
+      "487"
+    ],
+    [
+      "24",
+      "Chennai Port : Silk",
+      "1",
+      "1010",
+      "1011"
+    ],
+    [
+      "25",
+      "Chennai Port : Wool,fine or coarse animal hair,horse hair Yarn and woven fabrics",
+      "24",
+      "89",
+      "113"
+    ],
+    [
+      "26",
+      "Chennai Port : Man-made filaments",
+      "14",
+      "206",
+      "220"
+    ],
+    [
+      "27",
+      "Chennai Port : Man-made Stapple fibres",
+      "15",
+      "151",
+      "166"
+    ],
+    [
+      "28",
+      "Chennai Port : Other madeup textile articles,sets,worn clothing and worn textile articles and rugs",
+      "1",
+      "29",
+      "30"
+    ],
+    [
+      "29",
+      "Chennai Port : Raw hides and skins and leather",
+      "287",
+      "1052",
+      "1339"
+    ],
+    [
+      "30",
+      "Chennai Port : Articles of leather,saddlery,travel goods,Handbags and articles of animal gut",
+      "7",
+      "74",
+      "81"
+    ],
+    [
+      "31",
+      "Chennai Port : Animal or vegetable fats and oils and products,edible fat and waxes",
+      "@",
+      "1796",
+      "1796"
+    ],
+    [
+      "32",
+      "Chennai Port : Cotton",
+      "49",
+      "616",
+      "665"
+    ],
+    [
+      "33",
+      "Chennai Port : Printed books newspapers journals etc.",
+      "785",
+      "42",
+      "827"
+    ],
+    [
+      "34",
+      "Chennai Port : Ceramic products",
+      "37",
+      "276",
+      "313"
+    ],
+    [
+      "35",
+      "Chennai Port : Glass and glassware",
+      "13",
+      "360",
+      "373"
+    ],
+    [
+      "36",
+      "Chennai Port : Natural or cultured pearl precious or semi precious stones,metals and precious metals and articles thereof",
+      "9654",
+      "850",
+      "10504"
+    ],
+    [
+      "37",
+      "Chennai Port : Iron and steel",
+      "18",
+      "5034",
+      "5052"
+    ],
+    [
+      "38",
+      "Chennai Port : Articles of iron and steel",
+      "119",
+      "2366",
+      "2485"
+    ],
+    [
+      "39",
+      "Chennai Port : Copper and articles thereof",
+      "11",
+      "372",
+      "383"
+    ],
+    [
+      "40",
+      "Chennai Port : Nickel and articles thereof",
+      "16",
+      "137",
+      "153"
+    ],
+    [
+      "41",
+      "Chennai Port : Aluminum and articles thereof",
+      "8",
+      "976",
+      "984"
+    ],
+    [
+      "42",
+      "Chennai Port : Lead and articles thereof",
+      "@",
+      "1009",
+      "1009"
+    ],
+    [
+      "43",
+      "Chennai Port : Zinc and articles thereof",
+      "@",
+      "57",
+      "57"
+    ],
+    [
+      "44",
+      "Chennai Port : Tin and articles thereof",
+      "1",
+      "77",
+      "78"
+    ],
+    [
+      "45",
+      "Chennai Port : Miscellaneous articles of base metal",
+      "60",
+      "249",
+      "309"
+    ],
+    [
+      "46",
+      "Chennai Port : Electrical machinery,equipments and parts thereof sound recorders and reproduces TV image",
+      "8668",
+      "9868",
+      "18536"
+    ],
+    [
+      "47",
+      "Chennai Port : Railway locomotives rolling stock,Rly. Trace fixture and fittings,signalling equipments of all kinds",
+      "1",
+      "110",
+      "111"
+    ],
+    [
+      "48",
+      "Chennai Port : Vehicles other than Rly. or tramway,parts and accessories thereof",
+      "167",
+      "4204",
+      "4371"
+    ],
+    [
+      "49",
+      "Chennai Port : Aircrafts,Spacecrafts and parts thereof",
+      "456",
+      "6",
+      "462"
+    ],
+    [
+      "50",
+      "Chennai Port : Ships,boats floating structures",
+      "3",
+      "1226",
+      "1229"
+    ],
+    [
+      "51",
+      "Chennai Port : Clocks and watches and parts thereof",
+      "97",
+      "13",
+      "110"
+    ],
+    [
+      "52",
+      "Chennai Port : Others",
+      "10507",
+      "26718",
+      "37225"
+    ],
+    [
+      "Total",
+      "Chennai Port Total",
+      "33267",
+      "118513",
+      "151780"
+    ],
+    [
+      "54",
+      "Coimbatore",
+      "2465",
+      "NA",
+      "2465"
+    ],
+    [
+      "55",
+      "Thoothukkudi",
+      "NA",
+      "34002",
+      "34002"
+    ],
+    [
+      "56",
+      "Thirukadayur",
+      "NA",
+      "110",
+      "110"
+    ],
+    [
+      "57",
+      "Ennore Minor Port",
+      "NA",
+      "64",
+      "64"
+    ],
+    [
+      "58",
+      "PY 03 port",
+      "NA",
+      "1740",
+      "1740"
+    ],
+    [
+      "59",
+      "Ennore Port (Government of India undertaking)",
+      "NA",
+      "1740",
+      "1740"
+    ]
+  ]
+}
